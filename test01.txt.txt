@@ -1,0 +1,23 @@
+Tanzu Build - 應用開發框架與容器應用市集
+Spring boot / Spring Cloud 微服務開發框架
+Application Catalog 應用服務封裝與市集上架
+Tanzu Run – 容器運行平台
+vSphere 7 with Kubernetes 內建原生多 K8s 叢集的虛擬化平台
+PKS / VCF 容器平台的網路，資安與儲存
+Tanzu Manage – 跨雲多 K8s 叢集維運管理
+Tanzu Mission Control 跨雲跨多 K8s 的管理工具
+Tanzu Service Mesh 微服務間的安全通訊方案
+Tanzu Observability 秒級監控容器運行狀態
+Tanzu Kubernetes Grid Instance
+The TKG instance is a complete deployment of Tanzu Kubernetes Grid (as shown in the figure above), including the management cluster, the deployed Tanzu Kubernetes cluster, and the configured shared and intra-cluster services.
+Different Tanzu Kubernetes Grid instances can be deployed for different environments such as production, trial operation and testing.
+Of course, as mentioned earlier, TKG instances are suitable for different IaaS providers or environments, such as vSphere private cloud, Azure and Amazon EC2; they can also be deployed in different failure domains, such as Datacenter-1, AWS us-east-2 or AWS us-west-2.
+
+Bootstrap Machine
+The boot machine is to download and run Tanzu Kubernetes Grid CLI on a portable computer, host or server, and push the management cluster to initially guide the platform to be run.
+
+Bootstrap 是一個用於快速開發 Web 應用程式和網站的前端框架。Bootstrap 是基於 HTML、CSS、JAVASCRIPT 的。
+
+ （我的理解）使用Bootstrap框架的實質：比如你想要設計一個按鈕，但是不知道什麼樣子的按鈕最好看，你就可以去bootstrap官方檢視（http://www.runoob.com/bootstrap/bootstrap-environment-setup.html）
+
+ok
